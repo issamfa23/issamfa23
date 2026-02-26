@@ -12,7 +12,7 @@ I specialize in infrastructure security, network protection, system hardening, a
 
 ---
 
-## About Me
+## 🚀 About Me
 I’m currently focused on strengthening my expertise in cybersecurity, infrastructure protection, and threat detection. I enjoy working on real-world technical environments, from securing systems and networks to monitoring activity, analyzing incidents, and improving defensive strategies.
 
 I’m particularly interested in how security technologies and best practices can be applied to protect infrastructures, detect vulnerabilities, and ensure reliable and resilient IT environments, combining hands-on technical experience with a strong operational mindset.
