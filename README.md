@@ -1,4 +1,4 @@
- Hi there 👋
+# Hi there, I'm Farah Issam 👋
 ## 🎯 Career Focus
 
 With over 6 years of experience in Systems and Network Administration, I am currently focused on advancing my career in Cybersecurity. 
